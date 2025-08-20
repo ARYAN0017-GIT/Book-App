@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Book-App
 =======
 📚 BookHaven - Online Library System
@@ -181,7 +181,3 @@ Client-side routing
 Modern JavaScript (ES6+)
 
 CSS frameworks and styling
-
-
-
->>>>>>> 66a0747 (first commit)
